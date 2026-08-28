@@ -1,2 +1,2 @@
 :HL["/oneapp-production-prototype/_next/static/css/bce49d5a9c58ad9f.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"r-qJb6FrQvoV8lm4PTjEb"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"snbiWO_lCaz3jJFuYXUWZ"}
